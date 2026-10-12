@@ -1,0 +1,6 @@
+{
+  "name": "Neon Bubble Shooter",
+  "description": "A modern, highly polished neon-themed bubble shooter game with physics, visual effects, and dynamic difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pink-glow: #ff007f;
+  --color-cyan-glow: #00ffff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #050505;
+  background-image: radial-gradient(circle at 50% 100%, #150a21 0%, #050505 80%);
+  color: white;
+  overflow: hidden;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  touch-action: none; /* Prevents pull-to-refresh and scrolling on canvas */
+}
